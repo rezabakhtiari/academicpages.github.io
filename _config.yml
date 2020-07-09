@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Reza Bakhtiari"
   avatar           : "profile.png"
-  bio              : "RZA Your biography for the left-hand sidebar"
-  location         : "DE"
-  employer         :
+  bio              : "Senior Data Scientist / ML Consultant"
+  location         : "Munich (Germany)"
+  employer         : "A1 Digital
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=rcVLVFYAAAAJ&hl=en"
   email            :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/bakhtiarireza"
+  linkedin         : "bakhtiarireza"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "mreza_de"
   vine             :
   weibo            :
   xing             :
